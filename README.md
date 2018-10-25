@@ -7,9 +7,9 @@ In this example, we use SQLite to retrieve data from a database.
 
 To make it work, you need:
    * R runtime
-   * a Python interpreter
+   * a Python interpreter (2.7, 3.5 or 3.6)
    * doopl library installed in your Python environment (https://pypi.org/project/doopl/)
-   * CPLEX Studio 128 runtime
+   * CPLEX Studio 128 runtime (Windows, Linux or Mac are the only supported platforms of doopl)
    
 First, install doopl library in your Python interpreter: 'pip install doopl'. You alternatively download it and put it in your PYTHONPATH).
 
